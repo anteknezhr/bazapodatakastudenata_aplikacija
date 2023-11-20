@@ -1,5 +1,5 @@
 # Opis
-  Ova Java aplikacija omogućuje upis, praćenje stanja računa i plaćanje školarine za studente. Svaki student ima osobni identifikacijski broj, upisane kolegije te praćenje stanja računa.
+  Ova Java aplikacija omogućuje upis, praćenje stanja računa i plaćanje školarine za studente. Svaki student ima osobni identifikacijski broj, upisane kolegije te mogućnost praćenje stanja računa.
 
 # Kako koristiti
 1. Pokrenite AplikacijaBazeStudenata klasu iz paketa studentdatabaseapp unutar vaše Java razvojne okoline.
